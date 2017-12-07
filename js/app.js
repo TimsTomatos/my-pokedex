@@ -5,13 +5,13 @@
 // Find the div with the id of "name1" and replace the text n/a with "Tentacool"
 // Place your code below
 
-
+document.getElementById("name1").innerHTML = "Tentacool";
 
 // Pokemon 2
 // Find the div with the id of "type2" and replace the text n/a with "water"
 // Place your code below
 
-
+document.getElementById("type2").innerHTML = "water";
 
 
 // Pokemon 3
@@ -19,7 +19,7 @@
 // Place your code below
 
 
-
+document.getElementById("pokeNumber3").innerHTML = "116";
 
 
 // Pokemon 4
@@ -27,7 +27,7 @@
 // Place your code below
 
 
-
+document.getElementById("bio4").innerHTML = "Deep fried crab only 5 easy payments of $10.99";
 
 
 // Pokemon 5
@@ -35,7 +35,7 @@
 // Place your code below
 
 
-
+document.getElementById("bio5").style.color = "Red";
 
 
 // Pokemon 6
@@ -44,10 +44,11 @@
 
 
 
-
+document.getElementById("name6").style.fontSize = "60px";
 
 // Pokemon 7
 // Find the div with the id of "container" and change the background color to "green"
 // Place your code below
 
 
+document.getElementById("container").style.backgroundColor = "green";
